@@ -1,4 +1,4 @@
-// LOL Shield GPS by James Wood http://james-wood.com.au
+// LOL Shield GPS by James Wood http://j-w.co
 // Based on code and hardware by Jimmie P. Rogers http://jimmieprodgers.com/
 // and code by Mikal Hart http://arduiniana.org
 
